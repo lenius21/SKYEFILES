@@ -1,4 +1,4 @@
-const countdownDays = 200;
+const countdownDays = 100;
 const targetDate = new Date().getTime() + (countdownDays * 24 * 60 * 60 * 1000);
 
 function updateCountdown() {
